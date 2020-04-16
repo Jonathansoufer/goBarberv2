@@ -1,0 +1,31 @@
+### Go Barber v2 backend ###
+
+Go barber v2 is an OPEN SOURCE end-to-end solution for barber shops in order to help /barbers deal with online service scheduling process.
+
+Each barber within the shops can check and get notifications of new services/cancellations and organize their internal agenda.
+
+The architecture used are:
+
+* middlewares
+* services
+* models
+* repositories
+* central error handler library
+
+
+## Code organization
+
+* eslint
+* prettier
+
+## Technologies
+
+* nodeJS
+* express
+* docker
+* postgres
+* mongodb
+* redis
+* typeorm
+* typescript
+* cryptography
