@@ -18,6 +18,13 @@ Each barber within the shops can check and get notifications of new services/can
 * eslint
 * prettier
 
+## Features
+
+* user authentication
+* role management
+* file upload
+* appointment creation/management
+
 ## Technologies
 
 * nodeJS
@@ -29,3 +36,7 @@ Each barber within the shops can check and get notifications of new services/can
 * typeorm
 * typescript
 * cryptography
+
+## Status
+
+* working in progress
